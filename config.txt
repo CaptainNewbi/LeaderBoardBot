@@ -1,0 +1,4 @@
+BOT_TOKEN = 
+CHANNEL_ID = 
+REPLAY_FILE_TYPE = application/vnd.businessobjects
+NEW_PLAYER_RATING = 3000
